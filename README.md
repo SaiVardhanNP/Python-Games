@@ -72,4 +72,3 @@ Run the script and have fun!
 
 Thank you!
 
-Developed by: Grishma Gedela (GRISHMA-GEDELA, GameHub)
