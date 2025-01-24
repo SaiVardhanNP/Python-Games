@@ -2,7 +2,6 @@
 
 # Game Hub - Python
 
-Hey, it's Grishma, your 2nd-year BTech friend! Welcome to Game Hub, my tech-inspired world of fun and games. Let's play and learn together!
 
 ## Features
 
@@ -68,7 +67,6 @@ Hey, it's Grishma, your 2nd-year BTech friend! Welcome to Game Hub, my tech-insp
 
 ## Getting Started
 
-Download the source code: [GameHub Project](https://github.com/GRISHMA-GEDELA/GameHub-Python.git)
 
 Run the script and have fun!
 
